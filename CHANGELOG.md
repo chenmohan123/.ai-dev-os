@@ -13,15 +13,21 @@
 ### 新增
 
 - 新增 [README.md](README.md)，补充项目定位、设计原则、快速开始和相关文档入口。
+- 新增 [README.en.md](README.en.md)，提供英文项目概览与子模块接入入口说明。
 - 新增 [INTEGRATION.md](INTEGRATION.md)，说明业务仓库如何以子模块方式接入 ai-dev-os，并提供 AGENTS.md 与 CLAUDE.md 模板。
+- 新增 [INTEGRATION.en.md](INTEGRATION.en.md)，提供英文接入步骤与模板说明。
 - 新增 [RELEASE.md](RELEASE.md)，统一分支策略、版本建议和首发检查清单。
+- 新增 [RELEASE.en.md](RELEASE.en.md)，提供英文发布与分支策略说明。
 - 新增 [CONTRIBUTING.md](CONTRIBUTING.md)，明确协作流程、目录回写约定、提交前自检和 PR 建议说明。
+- 新增 [CONTRIBUTING.en.md](CONTRIBUTING.en.md)，提供英文协作入口与提交流程说明。
+- 新增 [SUPPORT.md](SUPPORT.md) 与 [SUPPORT.en.md](SUPPORT.en.md)，补充项目支持方式与赞助说明。
 
 ### 调整
 
 - 将规则库正文提升到仓库根目录，根入口调整为 [00_README.md](00_README.md)，不再以 .ai-dev-os 作为本仓库自开发时的包裹目录。
 - 更新 [AGENTS.md](AGENTS.md) 与 [CLAUDE.md](CLAUDE.md)，明确当前仓库是在开发 ai-dev-os 本体。
 - 更新 [00_README.md](00_README.md)，补充根目录关系与“本体开发 / 子模块接入”两种场景的区分说明。
+- 为 [00_README.md](00_README.md) 与 [00-overview/00_README.md](00-overview/00_README.md) 补充英文摘要，降低首次进入仓库时的理解门槛。
 
 ### 修复
 
