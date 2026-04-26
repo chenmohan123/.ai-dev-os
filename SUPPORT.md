@@ -12,13 +12,13 @@ English version: [SUPPORT.en.md](SUPPORT.en.md)
 
 扫描下方二维码即可支持项目维护。
 
-![微信支付二维码](assets/support/wechat-pay.png)
+<img src="assets/support/wechat-pay.png" alt="微信支付二维码" width="360" />
 
 ### 支付宝
 
 扫描下方二维码即可支持项目维护。
 
-![支付宝收款二维码](assets/support/alipay.jpg)
+<img src="assets/support/alipay.jpg" alt="支付宝收款二维码" width="360" />
 
 ## 说明
 

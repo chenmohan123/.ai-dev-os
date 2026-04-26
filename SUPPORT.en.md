@@ -12,13 +12,13 @@ At the moment, support options are primarily available for users in China throug
 
 Scan the QR code below to support the project's maintenance.
 
-![WeChat Pay QR code](assets/support/wechat-pay.png)
+<img src="assets/support/wechat-pay.png" alt="WeChat Pay QR code" width="360" />
 
 ### Alipay
 
 Scan the QR code below to support the project's maintenance.
 
-![Alipay QR code](assets/support/alipay.jpg)
+<img src="assets/support/alipay.jpg" alt="Alipay QR code" width="360" />
 
 ## Notes
 
